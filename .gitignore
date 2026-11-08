@@ -1,0 +1,14 @@
+# History and session data
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+
+# Output and temporary files
+*.Rout
+.Rproj.user/
+
+# IDE & OS Metadata
+.idea/
+.vscode/
+.DS_Store
